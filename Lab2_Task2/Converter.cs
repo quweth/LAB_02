@@ -11,7 +11,7 @@ namespace Task2
     {
         private double x; // usd to uah 
         private double y; // eur to uah
-        private double z; // rub to uah
+        private double z; // pln to uah
         private double g; // uah
         private double h; // uah to usd
         private double c; // uah to eur
