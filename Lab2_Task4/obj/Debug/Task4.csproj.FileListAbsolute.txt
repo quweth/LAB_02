@@ -1,0 +1,15 @@
+D:\GitHub\Repositories\Lab02\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\GitHub\Repositories\Lab02\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Repositories\Lab02\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\Lab02\Task4\bin\Debug\Task4.exe.config
+D:\GitHub\Repositories\Lab02\Task4\bin\Debug\Task4.exe
+D:\GitHub\Repositories\Lab02\Task4\bin\Debug\Task4.pdb
+D:\GitHub\Repositories\Lab02\Task4\obj\Debug\Task4.exe
+D:\GitHub\Repositories\Lab02\Task4\obj\Debug\Task4.pdb
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\bin\Debug\Task4.exe.config
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\bin\Debug\Task4.exe
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\bin\Debug\Task4.pdb
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\obj\Debug\Task4.exe
+C:\Users\paket\OneDrive\Робочий стіл\Lab02-main\Lab02-main\Task4\obj\Debug\Task4.pdb
